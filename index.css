@@ -3,6 +3,7 @@ body{
 }
 header {
 background-color: rgb(112, 11, 11);
+background-image: url(images.jpeg);
 }
     section{
         color:antiquewhite;
