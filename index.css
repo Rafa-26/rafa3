@@ -1,9 +1,12 @@
 body{
-    color: rgb(154, 118, 187);
+
+    color: rgb(251, 138, 0);
+    background-image: url(images.jpeg);
 }
+
 header {
 background-color: rgb(112, 11, 11);
-background-image: url(images.jpeg);
+
 }
     section{
         color:antiquewhite;
